@@ -2,6 +2,11 @@
 html{
     scroll-behavior: smooth;
 }
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
 /*Colores y estilos generales*/
 body{
@@ -15,16 +20,8 @@ body{
     background-color: #00d0ff;
     text-align: center;
 }
-/*Colores sección Destacados*/
-.card{
-    background-color: #00d0ff;
-}
-/*Colores del footer*/
-footer{
-    background-color: #00d0ff;
-}
-/*Color del boton enviar del formulario final*/
-.btn{
+/*Colores sección Destacados, footer y boton enviar*/
+.card, footer, .btn{
     background-color: #00d0ff;
 }
 /*Color de los iconos de redes sociales*/
