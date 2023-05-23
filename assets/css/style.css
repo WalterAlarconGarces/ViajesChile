@@ -10,9 +10,10 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 /*Colores seccion Quienes somos*/
-#avion{
+#avion,  #montana, #ruta{
+    padding-top: 15px;
     background-color: #00d0ff;
-    text-align: center;  
+    text-align: center;
 }
 /*Colores sección Destacados*/
 .card{
@@ -29,4 +30,7 @@ footer{
 /*Color de los iconos de redes sociales*/
 #vinculitos{
     color: white;
+}
+#tarjetas_destacados img {
+    height: 200px;
 }
