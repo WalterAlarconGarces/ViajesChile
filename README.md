@@ -11,7 +11,6 @@ La agencia Viajes Chile es una empresa dedicada a ofrecer los mejores destinos t
 
 ## Características ✔️
 
-Aquí hay un posible texto generado usando las palabras clave:
 
 - Una barra de navegación fija en la parte superior de la pantalla, con el logo y links a diferentes secciones de la página, haciendo un smooth scroll.
   - Esta característica permite a los usuarios acceder fácilmente a las distintas partes del sitio web sin perder de vista el logo y el nombre de la marca.
