@@ -31,3 +31,7 @@ body{
 #tarjetas_destacados img {
     height: 200px;
 }
+.modal {
+    background-color: coral;
+    color: black;
+}

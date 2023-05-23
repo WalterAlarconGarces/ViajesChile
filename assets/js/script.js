@@ -8,3 +8,7 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 $("#enviar").click(function () { 
     alert("Contacto exitoso")
 });
+
+$("#avion,#montana,#ruta",).hover(function(){
+    $('.modal').modal('show');
+})
